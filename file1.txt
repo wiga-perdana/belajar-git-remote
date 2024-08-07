@@ -2,3 +2,5 @@ Menambah file1.txt
 tamabahan untuk branch
 feature/a
 feature/a
+feature/b
+
