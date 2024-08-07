@@ -1,1 +1,10 @@
 Menambah file1.txt
+<<<<<<< HEAD
+=======
+tamabahan untuk branch
+feature/a
+feature/a
+feature/b
+feature/C
+
+>>>>>>> ecba5a1 (Feature C - file1)
